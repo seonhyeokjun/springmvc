@@ -1,0 +1,7 @@
+#hello.springmvc ???? ? ?? ?? ?? ??
+logging:
+  level:
+    hello:
+      springmvc=trace
+    #전체 로그 레벨 설정(기본 info)
+    root: info
