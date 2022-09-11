@@ -63,6 +63,7 @@ public class RequestParamController {
      * 주의!
      * /request-param-required?username= -> 빈문자로 통과
      *
+     *
      * 주의!
      * /request-param-required
      * int age -> null을 int에 입력하는 것은 불가능, 따라서 Integer 변경해야 함(또는 다음에 나오는 defaultValue 사용)
